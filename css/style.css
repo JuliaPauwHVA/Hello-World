@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #02727a;
+    line-height: 1.5;
+    text-align: left;
+    text-transform: uppercase;
+    letter-spacing: 0, 1 em;
+    font-weight: 500;
+}
+
+body {
+    background-color: rgb(205, 167, 195);
+}
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+.special-text {
+    font-family: "Copperplate", "Papyrus", fantasy;
+}
+
+* {
+    padding: 0.1cm;
+}
+
+h1 {
+    padding-inline: 15px 40px;
+    writing-mode: horizontal-tb;
+}
+
+p {
+    color: black;
+}
+
+a {
+    background: white;
+    padding: 0.5em;
+    border-radius: 0.2em;
+    transition: 250ms ease;
+
+}
+
+a:hover {
+    background-color: green;
+}
+
+a:link {
+    color: rgb(245, 70, 39);
+}
+
+
+ul {
+    display: flex;
+    list-style-type: none;
+    padding-left: 0;
+}
